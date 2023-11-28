@@ -11,6 +11,6 @@ package com.mycompany.lecturaguia;
 public class Lecturaguia {
 
     public static void main(String[] args) {
-        System.out.println("Hola gabo!");
+        System.out.println("Hola gabo jPDFText, jPDFBox y iText!");
     }
 }
